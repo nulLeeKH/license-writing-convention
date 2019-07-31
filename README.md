@@ -1,2 +1,2 @@
-# license-writing-conventions
-The repository contains conventions for insert license in documents.
+# license-writing-convention
+The repository contains convention for insert license in documents.
